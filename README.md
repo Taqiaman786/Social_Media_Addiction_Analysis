@@ -150,3 +150,5 @@ Key takeaways:
 
 **Overall, this dashboard highlights the urgent need for digital wellness awareness among students. While social media is an integral part of modern life, mindful usage habits, screen time limits, and institutional support can help students strike a healthier balance between online engagement and academic success.
 
+<img width="895" height="720" alt="Screenshot 2026-04-20 225828" src="https://github.com/user-attachments/assets/a183f686-59fb-40f8-b0c2-d1befcc37bc5" />
+
